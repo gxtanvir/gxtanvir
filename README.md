@@ -11,15 +11,15 @@
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
             alt="gxtanvir" height="30" width="40" />
     </a>
-    <a href="https://linkedin.com/in/gxtanvir" target="blank"><img align="center"
+    <a href="https://linkedin.com/in/gxtanvir" target="_blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
             alt="gxtanvir" height="30" width="40" />
     </a>
-    <a href="https://fb.com/gtanvir" target="blank"><img align="center"
+    <a href="https://fb.com/gtanvir" target="_blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
             alt="gtanvir" height="30" width="40" />
     </a>
-    <a href="https://instagram.com/tan.virus" target="blank"><img align="center"
+    <a href="https://instagram.com/tan.virus" target="_blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
             alt="tan.virus" height="30" width="40" />
     </a>
